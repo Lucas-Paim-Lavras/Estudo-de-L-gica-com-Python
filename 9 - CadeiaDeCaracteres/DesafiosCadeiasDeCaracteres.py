@@ -2,7 +2,7 @@
 nome = str(input('Digite seu nome completo:'))
 print (nome.upper())
 print (nome.lower())
-num_caract = len(nome.replace(' ', '')) #aqui ele tá trocando espaço ' ' por ''. Ou seja, trocando espaço pr nada.
+num_caract = len(nome.replace(' ', '')) #aqui ele tá trocando espaço ' ' por ''. Ou seja, trocando espaço pra nada.
 print ('O número de cacteres do nome, sem considerar os espaços, é: {}'. format(num_caract))
 dividido = nome.split()
 num1_caract = len(dividido[0])
