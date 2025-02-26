@@ -1,11 +1,15 @@
 def metade(p):
-    return p * 0.5
+    res = p *0.5
+    return res
 
 def dobro(p):
-    return p * 2
+    res = p * 2
+    return res
 
 def aumentar(p, n=0):
-    return p * (1 + n/100)
+    res = p * (1 + n/100)
+    return res
 
 def diminuir(p, n=0):
-    return p * (1 - n/100)
+    res = p * (1 - n/100)
+    return res
