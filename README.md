@@ -1,2 +1,2 @@
 # Estudo-de-L-gica-com-Python
-Estudo realizado no Curso de Python do canal: Curso em Vídeo do Gustavo Guanabara
+Estudo de lógica de programação em python com o curso em video do gustavo guanabra
