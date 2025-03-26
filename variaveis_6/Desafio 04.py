@@ -1,5 +1,5 @@
 #Solicita um valor ao usuário
-n = input('Digite algo:')
+n = input(str('Digite algo:'))
 
 #Exibe o tipo primitivo digitado pelo usuário
 print('O tipo primitivo é', type(n))
