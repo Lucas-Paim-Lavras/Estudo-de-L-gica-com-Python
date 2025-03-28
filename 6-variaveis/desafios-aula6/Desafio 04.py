@@ -1,5 +1,5 @@
 #Solicita um valor ao usuário
-n = input(str('Digite algo:'))
+n = input(str('Digite algo: '))
 
 #Exibe o tipo primitivo digitado pelo usuário
 print('O tipo primitivo é', type(n))
@@ -12,4 +12,4 @@ print ('Letras minúculas?', n.islower())
 print ('Pode ser impresso?', n.isprintable())
 print ('Letras MAIÚSCULAS?', n.isupper())
 print ('É uma letra?', n.isascii())
-print ('É uma letra?', n.istitle())
+print ('É uma letra?', n.istitle()).6
