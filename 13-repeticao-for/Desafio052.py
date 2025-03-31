@@ -15,4 +15,4 @@ print(f'\n\033[mO número {n} foi divísel {tot} vezes')
 if tot == 2:
     print('Logo, ele é primo')
 else:
-    print('Logo ele é não primo')
+    print('Logo ele não é primo')
