@@ -13,6 +13,6 @@ if opção == 1:
 elif opção == 2:
     print('{} convertido para OCTAL é igual a {}'. format(numero, oct(numero)[2:]))
 elif opção == 3:
-    print('convertido para HEXADECIMAL é igual a {}'. format(numero, hex(numero)[2:]))
+    print('{} convertido para HEXADECIMAL é igual a {}'. format(numero, hex(numero)[2:]))
 else:
     print('Opção inválida. Tente novamente')

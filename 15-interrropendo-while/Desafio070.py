@@ -39,19 +39,3 @@ print( '-' *10, 'FIM DO PROGRAMA','-' *10,)
 print('O total da compra foi R${:.2f}'.format(total))
 print(f'Temos {CountMaiorMil} produto(s) cutando mais de R$1000.00')
 print(f'O produto mais barato foi a/o {nomeBarato} que custa R${preçoBarato:.2f}')
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

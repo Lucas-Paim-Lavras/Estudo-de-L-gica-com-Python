@@ -14,7 +14,7 @@ print (emojize('Vamos fazer a contagem regressiva para o ano de 2025???? :star-s
 #Contagem regressiva
 for c in range (10, -1, -1):
     print(f'\033[35m{c}\033[m')
-    sleep(1)
+    
 
 #Mensagem de Feliz Ano Novo
 print (emojize(':star::star::star:FELIZ ANO NOVO!!!:fireworks: :sparkler: '))

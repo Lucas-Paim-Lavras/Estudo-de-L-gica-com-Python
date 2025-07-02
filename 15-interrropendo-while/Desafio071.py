@@ -4,7 +4,7 @@
 print('='*30)
 print('BANCO PAIM'.center(25))
 print('='*30)
-valor = int(input('Que valor você quer sacar? '))
+valor = float(input('Que valor você quer sacar? '))
 total = valor
 cedula = 50
 totced = 0
@@ -17,7 +17,7 @@ while True:
         total -= cedula
         totced += 1
     else:
-        if totced > 0:
+        if totced > 0:''
             print(f'Total de {totced} cédulas de R${cedula}')
         if cedula == 50:
             cedula = 20
